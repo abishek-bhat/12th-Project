@@ -1,5 +1,4 @@
 #include<iostream.h>
-using namespace std;
 #include<conio.h>
 #include<fstream.h>
 #include<string.h>
